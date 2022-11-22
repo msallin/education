@@ -1,0 +1,6 @@
+	- Software Qualität
+	- Software Architektur
+	- Software Evolution
+	- CI/CD
+	- Code Reviews
+- PR based development
