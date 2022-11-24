@@ -29,7 +29,7 @@ Implementation details
 
 - UI, API, Shortener, Resolver and Statistics are to be creaetd as standalone service
 - All services should be in one Visual Studio solution and the whole system is startable with Docker Compose
-- There are now references allowed between the services
+- There are no references allowed between the services
 - Shortener
   - Accepts the long URL and returns the short url
   - Stores: Long Url (hash), Short Url, User (or anonymous), creation timestamp
