@@ -27,7 +27,7 @@ The following diagram shows the decomposition of the Url Shortener Software Solu
 
 Implementation details
 
-- UI, API, Shortener, Resolver and Statistics are to be creaetd as standalone service
+- UI, API, Shortener, Resolver and Statistics are to be created as standalone service
 - All services should be in one Visual Studio solution and the whole system is startable with Docker Compose
 - There are no references allowed between the services
 - Shortener
