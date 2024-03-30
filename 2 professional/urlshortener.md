@@ -43,4 +43,4 @@ Implementation details
   - The access point for the users
   - Should be as fast as possible (make e.g. use of middlewares)
 - API
-  - The API gatway abstracts away the microservice backend from the UI and the users
+  - The API gateway abstracts away the microservice backend from the UI and the users
