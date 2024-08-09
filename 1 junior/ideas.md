@@ -2,4 +2,4 @@ Ensure:
 - Coverage measurement
 - StyleCop
 - Microbenchmark (exercise with caesar encryption)
-- Strukturiertes erklären eines Problems und einer erstellten lösung
+- Strukturiertes Erklären eines Problems und einer erstellten Lösung
