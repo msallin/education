@@ -1,0 +1,119 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
+  <diagram id="pOEtuHsCTkBugiCpjR1R" name="Page-1">
+    <mxGraphModel dx="1072" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="39GKR7LxOYmcgfXTXut8-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="39GKR7LxOYmcgfXTXut8-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="290" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-42" value="Command (mqtt)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="39GKR7LxOYmcgfXTXut8-41">
+          <mxGeometry x="-0.0937" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="310" as="sourcePoint" />
+            <mxPoint x="340" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-43" value="Event (mqtt)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="39GKR7LxOYmcgfXTXut8-40">
+          <mxGeometry x="-0.1691" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="39GKR7LxOYmcgfXTXut8-39" target="39GKR7LxOYmcgfXTXut8-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-39" value="Vehicle&lt;div&gt;(Console App)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="39GKR7LxOYmcgfXTXut8-44" target="39GKR7LxOYmcgfXTXut8-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-55" value="Event&lt;div&gt;(Kafka)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="39GKR7LxOYmcgfXTXut8-54">
+          <mxGeometry x="-0.2819" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-44" value="Vehicle&lt;div&gt;Control&lt;/div&gt;&lt;div&gt;(Win Forms App)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-45" value="Key Value Store" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;startFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="39GKR7LxOYmcgfXTXut8-47" target="39GKR7LxOYmcgfXTXut8-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-47" value="What vehicles exist and its metadata." style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="39GKR7LxOYmcgfXTXut8-44" target="39GKR7LxOYmcgfXTXut8-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="379.9999999999998" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="39GKR7LxOYmcgfXTXut8-50" target="39GKR7LxOYmcgfXTXut8-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-50" value="Vehicle Data Collector&lt;div&gt;(Web App)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-53" value="grpc" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="39GKR7LxOYmcgfXTXut8-50" target="39GKR7LxOYmcgfXTXut8-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;dashed=1;" edge="1" parent="1" source="39GKR7LxOYmcgfXTXut8-52" target="39GKR7LxOYmcgfXTXut8-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-52" value="Vehicle Intelligence Central&lt;div&gt;(Web App Razor Pages)&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;startFill=0;" edge="1" parent="1" source="39GKR7LxOYmcgfXTXut8-58" target="39GKR7LxOYmcgfXTXut8-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-58" value="Time Series" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="605" y="370" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-60" value="Events per type (inkl value) over time" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="575" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-62" value="Simple server side rendered event visualization" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="39GKR7LxOYmcgfXTXut8-66" target="39GKR7LxOYmcgfXTXut8-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-66" value="Grafana" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="725" y="370" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;startFill=0;" edge="1" parent="1" source="39GKR7LxOYmcgfXTXut8-68" target="39GKR7LxOYmcgfXTXut8-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-68" value="SQLite&lt;div&gt;(Outbo&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;x)&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="370" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-69" value="Events need to be transmitted at least once" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;startFill=0;" edge="1" parent="1" source="39GKR7LxOYmcgfXTXut8-72" target="39GKR7LxOYmcgfXTXut8-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-72" value="Document&lt;div&gt;DB&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="455" y="370" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-73" value="Events and state for every vehicle" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="39GKR7LxOYmcgfXTXut8-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="39GKR7LxOYmcgfXTXut8-50" target="39GKR7LxOYmcgfXTXut8-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="350" as="sourcePoint" />
+            <mxPoint x="370" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
