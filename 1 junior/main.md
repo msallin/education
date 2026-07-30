@@ -6,7 +6,7 @@
 
 #### C\#
 
-* C# Kurs (Pluralsight): [C\# Fundamentals](https://www.pluralsight.com/courses/c-sharp-10-fundamentals)
+* C# Kurs (Pluralsight): [C\# Fundamentals](https://www.pluralsight.com/courses/c-sharp-10-fundamentals) and or [C\# for beginners](https://learn.microsoft.com/en-us/shows/csharp-for-beginners/)
 * C# Kurs (MSFT Academy): [Programming in C\# Jump Start](https://learn.microsoft.com/en-us/shows/programming-in-csharp-jump-start/?l=j0iuozsfb_6900115888)
   * Object Oriented Programming, Managed Languages and C#
   * Constructing Complex Types – Object Interfaces and Inheritance

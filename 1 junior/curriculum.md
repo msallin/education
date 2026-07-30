@@ -23,14 +23,13 @@ Die Trainees durchlaufen verschiedene Ausbildungsblöcke welche die Grundlagen d
         * Grundkenntnisse GoF Patterns
         * Grundkenntnisse Prinzipien (KISS, DRY, ...)
     * Sprach- und Framework-spezifisch
-        * .NET Framework Concepts (OOP, Type Safety, Memory Management, CLR, CLS)
+        * .NET Concepts (OOP, Type Safety, Memory Management, CLR, CLS)
         * C# Basics (Syntax, Build-in Types, Arrays, Operators, Statements (for, foreach, while, if…))
         * C# Type System (Classes, Inheritance, Structs, Access Modifiers, Enums, Generics, Interfaces)
-        * .NET Framework (Overview, String and Text, Dates and Time, Formatting and Parsing, Globalization, Enums, Equality Comparison, Order Comparison)
+        * .NET (Overview, String and Text, Dates and Time, Formatting and Parsing, Globalization, Enums, Equality Comparison, Order Comparison)
 
 2. Grundlagen der Tools
-    * Visual Studio (Projekt System, Möglichkeiten und Handling, Code Analysis)
-    * ReSharper (Funktionalität und Shortcuts)
+    * Visual Studio / Jetbrains Rider (Projekt System, Möglichkeiten und Handling, Code Analysis)
     * Git / GitExtensions (Git Funktionalitäten und Verwendung von GitExtensions)
 
 3. Prinzipien
@@ -77,7 +76,7 @@ Die Trainees durchlaufen verschiedene Ausbildungsblöcke welche die Grundlagen d
     * Agile Software Entwicklung (insbesondere mit Scrum)
 
 6. Programmierung von Web Applikationen mit SQL Datenbank
-    * ASP.NET MVC
+    * Blazor
     * ASP.NET Web API
     * Entity Framework
     * Web Services (SOAP, REST, Web API, WebHook)
@@ -86,10 +85,9 @@ Die Trainees durchlaufen verschiedene Ausbildungsblöcke welche die Grundlagen d
 
 7. Erweiterte Kenntnisse der Tools und Frameworks
     * Roslyn
-    * Bitbucket
+    * Github
     * Jira
     * Confluence
-    * Jenkins
 
 8. Verhalten als "professional programmer"
     * Auf Basis von Clean Coder
