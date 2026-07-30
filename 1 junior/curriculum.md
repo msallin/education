@@ -24,12 +24,12 @@ Die Trainees durchlaufen verschiedene Ausbildungsblöcke welche die Grundlagen d
         * Grundkenntnisse Prinzipien (KISS, DRY, ...)
     * Sprach- und Framework-spezifisch
         * .NET Concepts (OOP, Type Safety, Memory Management, CLR, CLS)
-        * C# Basics (Syntax, Build-in Types, Arrays, Operators, Statements (for, foreach, while, if…))
+        * C# Basics (Syntax, Built-in Types, Arrays, Operators, Statements (for, foreach, while, if…))
         * C# Type System (Classes, Inheritance, Structs, Access Modifiers, Enums, Generics, Interfaces)
         * .NET (Overview, String and Text, Dates and Time, Formatting and Parsing, Globalization, Enums, Equality Comparison, Order Comparison)
 
 2. Grundlagen der Tools
-    * Visual Studio / Jetbrains Rider (Projekt System, Möglichkeiten und Handling, Code Analysis)
+    * Visual Studio / JetBrains Rider (Projekt System, Möglichkeiten und Handling, Code Analysis)
     * Git / GitExtensions (Git Funktionalitäten und Verwendung von GitExtensions)
 
 3. Prinzipien
