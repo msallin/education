@@ -6,7 +6,7 @@
 
 #### C\#
 
-* C# Kurs (Pluralsight): [C\# Fundamentals](https://www.pluralsight.com/courses/c-sharp-10-fundamentals)
+* C# Kurs (Pluralsight): [C\# Fundamentals](https://www.pluralsight.com/courses/c-sharp-10-fundamentals) and/or [C\# for beginners](https://learn.microsoft.com/en-us/shows/csharp-for-beginners/)
 * C# Kurs (MSFT Academy): [Programming in C\# Jump Start](https://learn.microsoft.com/en-us/shows/programming-in-csharp-jump-start/?l=j0iuozsfb_6900115888)
   * Object Oriented Programming, Managed Languages and C#
   * Constructing Complex Types – Object Interfaces and Inheritance
@@ -28,7 +28,7 @@
 
 * [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control)
 * [What is Git](https://www.atlassian.com/git/tutorials/what-is-git)
-* [Learn Git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+* [Learn Git](https://www.w3schools.com/git/)
 * Try to use the console and have a look at the UI Tools [GitExtensions](https://gitextensions.github.io)
 * Look at the UI Tool to see what the commands do
 * [Branches](https://www.atlassian.com/git/tutorials/using-branches)
@@ -105,17 +105,35 @@
 ### Selbststudium
 
 * [Your first Unit Test](https://learn.microsoft.com/en-us/visualstudio/test/walkthrough-creating-and-running-unit-tests-for-managed-code)
+* [Unit Test Coverage](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-code-coverage?tabs=windows)
 * [Code Coverage Analysis](https://confluence.atlassian.com/clover/about-code-coverage-71599496.html)
 * The Art of Unit Testing [4] – all Book Chapters
 * Test Driven Development (Research by yourself)
 
 ### Coding Dojo
 
-* Bring code coverage to 100% for all your exercises
+* Use coverage reports to identify untested behavior and add tests for important branches and failure paths
 * Do Kata with Test Last Development (TLD) [Dateidubletten](https://ccd-school.de/coding-dojo/library-katas/dateidubletten-aufspueren/)
 * Do Kata with Test Driven Development (TDD) [Stack](https://ccd-school.de/coding-dojo/class-katas/stack/)
 
-## Block 4 – Object Oriented Programming 1
+## Block 4 – Code-Coverage-Reports und Benchmarks
+
+### Code-Coverage-Reports
+
+* [ReportGenerator](https://github.com/danielpalme/ReportGenerator) zur Erstellung verständlicher HTML-Reports aus Coverage-Daten
+* Coverage-Reports für eine der bisherigen Übungen erstellen und auswerten
+* Zeilen- und Branch-Coverage unterscheiden und nicht abgedeckten Code beurteilen
+* Generierten Code und Testcode bei Bedarf aus den Reports ausschliessen
+
+### Code-Benchmarks
+
+* [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) als Benchmarking-Framework für .NET
+* Ein Benchmark-Projekt erstellen und verschiedene Implementierungen derselben Operation vergleichen (z.B. aus Übungen, generische Berechnungen)
+* Laufzeit und Speicherallokationen messen und die statistischen Ergebnisse interpretieren
+* Den Zweck von Warmup-Phasen, mehreren Iterationen und Release-Builds verstehen
+* Häufige Fehler beim Benchmarking erkennen, beispielsweise das Messen von Initialisierungscode oder das Ausführen im Debug-Modus
+
+## Block 5 – Object Oriented Programming 1
 
 ### Selbststudium
 
@@ -142,7 +160,7 @@
 * [Verzeichnisstatistik](https://ccd-school.de/coding-dojo/library-katas/verzeichnisstatistik/)
 * Solve the C# version of [GildedRose Refactoring Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)
 
-## Block 5 – Object Oriented Programming 2
+## Block 6 – Object Oriented Programming 2
 
 ### Selbststudium
 
@@ -178,7 +196,7 @@
 
 * [Stadt Land Fluss](https://ccd-school.de/coding-dojo/architecture-katas/stadt-land-fluss/)
 
-## Block 6 – .NET Internals
+## Block 7 – .NET Internals
 
 ### Selbststudium
 
