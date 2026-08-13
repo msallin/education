@@ -34,9 +34,21 @@
 * [Branches](https://www.atlassian.com/git/tutorials/using-branches)
 * [Pull Requests](https://www.atlassian.com/git/tutorials/making-a-pull-request)
 
-#### Clean Code
+#### Clean Code (Second Edition bevorzugt)
 
-* Clean Code [2] – Book Chapters:
+* Clean Code Second Edition [7] – Book Chapters:
+  * (1) Clean Code
+  * (2) Clean that Code!
+  * (3) First Principles
+  * (4) Meaningful Names
+  * (5) Comments
+  * (6) Formatting
+  * (7) Clean Functions
+  * (8) Function Heuristics
+  * (12) Objects and Data Structures
+  * (13) Clean Classes
+
+* Clean Code First Edition [2] – Book Chapters:
   * (1) Clean Code
   * (2) Meaningful Names
   * (3) Functions
@@ -93,6 +105,8 @@
   * Single Level of Abstraction (SLA)
   * Separation of Concerns (SoC)
   * Principle of Least Astonishment
+* Clean Code Second Edition [7]
+  * Kapitel (18) - (22)
 
 ### Coding Dojo
 
@@ -109,6 +123,8 @@
 * [Code Coverage Analysis](https://confluence.atlassian.com/clover/about-code-coverage-71599496.html)
 * The Art of Unit Testing [4] – all Book Chapters
 * Test Driven Development (Research by yourself)
+* Clean Code Second Edition [7]
+  * Kapitel (14) - (16)
 
 ### Coding Dojo
 
@@ -138,6 +154,7 @@
 ### Selbststudium
 
 #### C\#
+
 * C# in a Nutshell [1] – Book Chapter:
   * (4) Advanced C\#
 
@@ -228,3 +245,5 @@
 [5] [Object-Oriented Programming in C# Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/oop-csharp)
 
 [6] [Design Patterns. Elements of Reusable Object-Oriented Software](https://www.amazon.de/Patterns-Elements-Reusable-Object-Oriented-Software/dp/0201633612/ref=sr_1_1?s=books-intl-de&ie=UTF8&qid=1503219395&sr=1-1&keywords=Design+Patterns)
+
+[7] [Clean Code: A Handbook of Agile Software Craftsmanship Second Edition](https://www.amazon.de/-/en/Clean-Code-Handbook-Software-Craftsmanship/dp/0135398576)

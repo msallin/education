@@ -75,7 +75,7 @@
 
 7. Erweiterte Kenntnisse der Tools und Frameworks
  a. Roslyn
- b. Bitbucket
+ b. GitHub
  c. Jira
  d. Confluence
  e. Bamboo
