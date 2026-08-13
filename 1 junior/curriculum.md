@@ -76,6 +76,7 @@ Die Trainees durchlaufen verschiedene Ausbildungsblöcke welche die Grundlagen d
     * Agile Software Entwicklung (insbesondere mit Scrum)
 
 6. Programmierung von Web Applikationen mit SQL Datenbank
+    * ASP.NET Core Razor Pages
     * Blazor
     * ASP.NET Web API
     * Entity Framework
@@ -85,7 +86,7 @@ Die Trainees durchlaufen verschiedene Ausbildungsblöcke welche die Grundlagen d
 
 7. Erweiterte Kenntnisse der Tools und Frameworks
     * Roslyn
-    * Github
+    * GitHub
     * Jira
     * Confluence
 
@@ -99,6 +100,7 @@ Die Trainees durchlaufen verschiedene Ausbildungsblöcke welche die Grundlagen d
 * [C# in a Nutshell (neuste Version)](https://www.amazon.de/C-12-Nutshell-Definitive-Reference/dp/1098147448/ref=sr_1_1?crid=1RS28WQUSIWGQ&dib=eyJ2IjoiMSJ9.xBg5uB0XqNa7Ehlkp1TBAJFC__i0xB1Hmdd5OOQ8qGeQ0ESaqcBUJMfw4v7vTQTlOAuUxDIEN-M2dHsWarjAGlJOhDpX-nH5Te2iwW2MaLqFLS-yRwAPxY3LXePSCuVaedZTVvLQfQjkNNzUP4_2hEHZghMG8FMUXMyy0hSE9MJgAyEfcx6wnIJ7iNEZNXnfahogwT96gEuPC9zcPix2BqV5Jqdts_GQtYRwEt1YC5U.SHwuF-H9t_GDh16GHK-_q63LL2-47EE-ZcCK_LeuZE8&dib_tag=se&keywords=c%23+in+a+nutshell&qid=1723203210&sprefix=c%23+in+a+nut%2Caps%2C90&sr=8-1)
 
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.de/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=sr_1_1?ie=UTF8&qid=1503219302&sr=8-1&keywords=Clean+Code)
+* [Clean Code: A Handbook of Agile Software Craftsmanship Second Edition](https://www.amazon.de/-/en/Clean-Code-Handbook-Software-Craftsmanship/dp/0135398576)
 
 * [Object-Oriented Programming in C# Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/oop-csharp)
 
